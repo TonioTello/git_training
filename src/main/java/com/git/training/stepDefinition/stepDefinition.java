@@ -5,4 +5,8 @@ public class stepDefinition {
     public void neyferTestOne(){
 
     }
+
+    public void neyferTestTow(){
+
+    }
 }
